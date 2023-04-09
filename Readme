@@ -1,0 +1,25 @@
+
+. Features 
+   - Monolitic kernel structure 
+   - Virtual file system 
+   - Process management 
+   - Memory management 
+   - The ability to customize your own bootloader(can  be sound, image, audio)
+   - a secure login screen 
+   - Many more 
+   - Hangman!
+   - Notepad 
+   - Clock 
+   - Wallpaper changer
+   - Support for Windows Based applications(x64) bit only 
+   
+   
+   
+   
+   Programming language?
+   C# 
+   
+   CLI BASED OR GUI BASED ?
+   For CLI based because i am very new to operating systems development :)
+ 
+   
