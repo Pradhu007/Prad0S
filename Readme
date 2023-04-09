@@ -2,6 +2,7 @@
 . Features 
    - Monolitic kernel structure 
    - Virtual file system 
+   - In built Antivirus 
    - Process management 
    - Memory management 
    - The ability to customize your own bootloader(can  be sound, image, audio)
@@ -22,4 +23,4 @@
    CLI BASED OR GUI BASED ?
    For CLI based because i am very new to operating systems development :)
  
-   
+   You can contribute too!
